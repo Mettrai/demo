@@ -1,15 +1,4 @@
 {
- "data": {
-        "list": [
-            {
-                "customername": "Bussaracum ",
-                "customertier": "Gold",
-                "customerphone": "0824669224",
-                "totaltransaction": 1,
-                "totalamount": 500008,
-                "totalreward": 40000,
-                "remainingpoint": 40000
-            },
             {
                 "customername": "Leelar ",
                 "customertier": "Platinum",
@@ -154,5 +143,4 @@
                 "totalreward": 393,
                 "remainingpoint": 393
             }
-        ]
 }
